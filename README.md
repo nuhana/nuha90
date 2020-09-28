@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a UI/UX Designer, Developer and Traveller!
+## 
 - :telescope: I’m currently working on full stack applications
 - :seedling: I’m currently learning React
 
@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 <img align="left"  width="30px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
 <img align="left"   width="38px" src="https://img.icons8.com/clouds/100/000000/procreate.png"/>
 <img align="left"  width="30px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
+<br />radical
 <br />
-<br />
-<img align="left" alt="Pallabi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pallabi-ghosh&show_icons=true&hide_border=true%22" />
+
+<img align="left" alt="Pallabi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nuha90&show_icons=true&theme=radical" />
 [linkedin]: https://www.linkedin.com/in/nouha-najah-90/
