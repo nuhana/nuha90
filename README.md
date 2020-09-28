@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - :seedling: I’m currently learning React
 
 ### Connect with me:
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg"/>][dribbblesite]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 ### Languages and Tools:
