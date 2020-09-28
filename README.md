@@ -1,4 +1,4 @@
-### Hi there k👋
+### Hi there 👋
 
 <!--
 **nuha90/nuha90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
