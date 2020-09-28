@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://www.linkedin.com/in/nouha-najah-90/
 <br />
 ### Languages and Tools:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <br />
 
 <img align="left" alt="Pallabi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nuha90&show_icons=true&theme=radical" />
-[linkedin]: https://www.linkedin.com/in/nouha-najah-90/
+
